@@ -1,63 +1,54 @@
 [
     {
         "name": "Lionel Messi",
-        "nickname": "Messi",
         "team": "Barcelona",
         "position": "Forward",
         "info": "Lionel Andrés Messi Cuccittini is an Argentine professional footballer who plays as a forward and captains both Spanish club Barcelona and the Argentina national team."
     },
     {
         "name": "Cristiano Ronaldo",
-        "nickname": "Ronaldo",
         "team": "Juventus",
         "position": "Forward",
         "info": "Cristiano Ronaldo dos Santos Aveiro GOIH ComM is a Portuguese professional footballer who plays as a forward for Serie A club Juventus and captains the Portugal national team."
     },
     {
         "name": "Sadio Mane",
-        "nickname": "Mane",
         "team": "Liverpool",
         "position": "Forward",
         "info": "Sadio Mane is a Senegalese professional footballer who plays as a winger for Premier League club Liverpool and the Senegal national team. He is widely considered as one of the best players in the world."
     },
     {
         "name": "Kevin De Bruyne",
-        "nickname": "Kevin",
         "team": "Man City",
         "position": "Midfielder",
         "info": "Kevin De Bruyne is a Belgian professional footballer who plays as a midfielder for Premier League club Manchester City and the Belgian national team."        
     },
     {
         "name": "N'Golo Kante",
-        "nickname": "Kante",
         "team": "Chelsea",
         "position": "Midfielder",
         "info": "N'Golo Kanté is a French professional footballer who plays as a central midfielder for Premier League club Chelsea and the France national team."
     },
     {
         "name": "Virgil van Dijk",
-        "nickname": "van Dijk",
         "team": "Liverpool",
         "position": "Defender",
         "info": "Virgil van Dijk is a Dutch professional footballer who plays as a centre-back for English Premier League club Liverpool and captains the Netherlands national team. Considered to be one of the best defenders in the world, he is known for his strength, leadership and aerial ability."
     },
     {
         "name": "Sergio Ramos",
-        "nickname": "Ramos",
         "team": "Real Madrid",
         "position": "Defender",
         "info": "Sergio Ramos García is a Spanish professional footballer who plays for and captains both Real Madrid and the Spanish national team as a centre back. He has also played as a right back."
     },
     {
         "name": "Alisson Becker",
-        "nickname": "Alisson",
         "team": "Liverpool",
         "position": "Goalkeeper",
         "info": "Alisson Ramses Becker, commonly known as Alisson, is a Brazilian professional footballer who plays as a goalkeeper for Premier League club Liverpool and the Brazil national team."
     },
     {
         "name": "Manuel Neuer",
-        "nickname": "Neuer",
         "team": "Bayern Munich",
         "position": "Goalkeeper",
         "info": "Manuel Peter Neuer is a German professional footballer who plays as a goalkeeper and captain for both Bundesliga club Bayern Munich and the Germany national team."
