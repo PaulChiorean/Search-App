@@ -1,3 +1,68 @@
 body {
-    background: #DAD7C7;
+    background: #6d6c6821;
+}
+
+#searchfield {
+    margin: 0 auto;
+    text-align: center;
+    background: #c7c3aa;
+    padding: 10px;
+    width: 30%;
+    border-radius: 10px;
+}
+
+#searchfield label {
+    font: bold 1.3em Arial;
+    text-transform: uppercase;
+    padding-bottom: 5px;
+    color: #ee5a1f;
+}
+
+#searchfield p {
+    margin: 0;
+    line-height: 1em;
+    padding-bottom: 5px;
+}
+
+#searchfield input{
+    width: 80%;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#update {
+    width: 70%;
+    margin: 0 auto;
+}
+
+#update ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#update ul li {
+    width: 100%;
+    padding: 0 20px;
+    padding-bottom: 15px;
+}
+
+#update li:hover {
+    background: #CCC;
+}
+
+#update h2 {
+    margin: 0;
+    padding: 0;
+    font-size: 1.2em;
+    padding-bottom: 5px;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+
+#update img {
+    float: left;
+    width: 150px;
+    margin-right: 10px;
+    border-radius: 10px;
 }
